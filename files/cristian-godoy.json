@@ -1,0 +1,257 @@
+{
+   "public_identifier":"cristian-godoy-22385b44",
+   "profile_pic_url":null,
+   "background_cover_image_url":null,
+   "first_name":"Cristian",
+   "last_name":"Godoy",
+   "full_name":"Cristian Godoy",
+   "follower_count":482,
+   "occupation":"Python Developer at Globant",
+   "headline":"Python Developer en Globant",
+   "summary":"I\\'m an self-taught developer. I\\'m used to working on many things at the same time and with different technologies.\\nI\\'m passionate about algorithms, good practices and the correct organization of the code of a project.\\nI\\u2019m passionate about my wife and my two children.\\n",
+   "country":"AR",
+   "country_full_name":"Argentina",
+   "city":null,
+   "state":null,
+   "experiences":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":9,
+            "year":2020
+         },
+         "ends_at":null,
+         "company":"Globant",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/globant/",
+         "company_facebook_profile_url":null,
+         "title":"Python Developer",
+         "description":null,
+         "location":"Argentina",
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/globant/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241224%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241224T191455Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=20be8cf789d29eb56c630061275ad45666742fbd2b989e57e14ba48979bde5f5"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":9,
+            "year":2016
+         },
+         "ends_at":{
+            "day":30,
+            "month":9,
+            "year":2021
+         },
+         "company":"Cooperativa de Trabajo Equality Limitada",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/equalitycoop/",
+         "company_facebook_profile_url":null,
+         "title":"Python Developer",
+         "description":"I am currently developing the EQManager system (based on Django) that contemplates several requirements of the cooperative. Used technologies: Django, Postgres, Nginx, Gunicorn.\\nDevelop the project Baseunica de Informacion para Unidato using the Django framework based on python. Used technologies: Django, Nginx, Gunicorn, Red Hat, Oracle database engine.\\nImplemented the installation of the GNUHealth system (based on python) for the Communitas cooperative.\\nImplemented improvements for the system Gym for electoral campaigns. Used technologies: Django, sqlite, DRF (Django rest framework), Angular js.\\nDevelop a series of REST web services for the NBCH using Java. Used technologies: Java, Gradle, JBoss, GSON, RESTEasy, JSON Simple.",
+         "location":"Rosario, Santa Fe",
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/equalitycoop/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241224%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241224T191455Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=195a1848371c6a31f100ba66d029b48690269d81a50f835bcc6347e3d773fa15"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":2013
+         },
+         "ends_at":{
+            "day":30,
+            "month":9,
+            "year":2016
+         },
+         "company":"Nemo Group",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/procne/",
+         "company_facebook_profile_url":null,
+         "title":"Java Developer",
+         "description":"I worked with many booking APIs using both REST and SOAP protocols, from the following providers: GTA, HotelBeds, Travco, Tourico Holidays, Action Travel, Abreu, Tourmed, Bookhotel, Dingus, Hoteldo, Juniper, Ineltur, and many more.\\n\\nSoftware Engineer / Sr. Developer - (2012 - Present) \\u2013 Price Sufer S.A.\\nBackend\\nTroubleshooting and implementation of system improvements Price Surfer Hotels in products - Flights - Packages - Cruises - Vacation Homes & Java language by using Hibernate, XMLBeans, JAXB and MySQL frameworks.\\nCompleting the process of Deploy Price Surfer system of all products in different test environments (QA CERT) and production environment.\\nTesting Web Service using SOAP technology",
+         "location":"Java Developer",
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/procne/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241224%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241224T191455Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=d219b7add4e35f26cd609608f987034677689446107405780a6846d0644f436d"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":3,
+            "year":2012
+         },
+         "ends_at":{
+            "day":31,
+            "month":1,
+            "year":2013
+         },
+         "company":"Nemo Group",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/procne/",
+         "company_facebook_profile_url":null,
+         "title":"Front-End Developer",
+         "description":"Programming in Javascript, jQuery, HTML, CSS, Freemarker (Framework) and Java(Struts).\\nIntegration of the project Vacation & Homes to Price Surfer system.\\nIntegration of the project Cruises to Price Surfer system.",
+         "location":"Front-end",
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/procne/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241224%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241224T191455Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=d219b7add4e35f26cd609608f987034677689446107405780a6846d0644f436d"
+      }
+   ],
+   "education":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":2007
+         },
+         "ends_at":{
+            "day":31,
+            "month":1,
+            "year":2014
+         },
+         "field_of_study":null,
+         "degree_name":"Engineering Information System",
+         "school":"Universidad Tecnol\\u00f3gica Nacional",
+         "school_linkedin_profile_url":"https://www.linkedin.com/school/universidad-tecnologica-nacional/",
+         "school_facebook_profile_url":null,
+         "description":null,
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/universidad-tecnologica-nacional/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241224%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241224T191455Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=eb79ea4d9b24bef1546fe59159959883bb44321367610d776119a16c2214aa54",
+         "grade":null,
+         "activities_and_societies":null
+      }
+   ],
+   "languages":[
+      "English - Studying personally"
+   ],
+   "languages_and_proficiencies":[
+      {
+         "name":"English - Studying personally",
+         "proficiency":"PROFESSIONAL_WORKING"
+      }
+   ],
+   "accomplishment_organisations":[
+
+   ],
+   "accomplishment_publications":[
+
+   ],
+   "accomplishment_honors_awards":[
+
+   ],
+   "accomplishment_patents":[
+
+   ],
+   "accomplishment_courses":[
+
+   ],
+   "accomplishment_projects":[
+
+   ],
+   "accomplishment_test_scores":[
+
+   ],
+   "volunteer_work":[
+
+   ],
+   "certifications":[
+      {
+         "starts_at":null,
+         "ends_at":null,
+         "name":"RH124 Red Hat System Administration I",
+         "license_number":null,
+         "display_source":null,
+         "authority":"Proydesa",
+         "url":null
+      },
+      {
+         "starts_at":null,
+         "ends_at":null,
+         "name":"Sun Java (Nivel Avanzado)",
+         "license_number":null,
+         "display_source":null,
+         "authority":"Proydesa",
+         "url":null
+      },
+      {
+         "starts_at":null,
+         "ends_at":null,
+         "name":"Sun Java (Nivel Intermedio)",
+         "license_number":null,
+         "display_source":null,
+         "authority":"Proydesa",
+         "url":null
+      },
+      {
+         "starts_at":null,
+         "ends_at":null,
+         "name":"Sun Java (Nivel inicial)",
+         "license_number":null,
+         "display_source":null,
+         "authority":"Proydesa",
+         "url":null
+      }
+   ],
+   "connections":474,
+   "people_also_viewed":[
+
+   ],
+   "recommendations":[
+
+   ],
+   "activities":[
+      {
+         "title":"\\ud83d\\udc49 REMOTO 100% INTERIOR || C/INGLES AVANZADO.-Lead Application Engineer Fullstack .NET Core+ ReactJS-Lead Data Engineer-Manager Data\\u2026",
+         "link":"https://www.linkedin.com/signup/cold-join",
+         "activity_status":"Recomendado por Cristian Godoy"
+      },
+      {
+         "title":"Acced\\u00e9 a una recomendaci\\u00f3n para ahorrar mediante planes de capitalizaci\\u00f3n, manten\\u00e9 tus pesos referenciados al d\\u00f3lar, y aprovecha los beneficios de\\u2026",
+         "link":"https://www.linkedin.com/signup/cold-join",
+         "activity_status":"Recomendado por Cristian Godoy"
+      },
+      {
+         "title":"\\ud83d\\udea9 Tengo TRES vacantes para Java Devs Ssr (para empezar de manera remota, luego en Palermo o Microcentro) en _coderio | Software Development Company\\u2026",
+         "link":"https://www.linkedin.com/signup/cold-join",
+         "activity_status":"Recomendado por Cristian Godoy"
+      }
+   ],
+   "similarly_named_profiles":[
+      {
+         "name":"Cristi\\u00e1n Godoy",
+         "link":"https://cl.linkedin.com/in/cristi%C3%A1n-godoy-a817b566",
+         "summary":"Abogado",
+         "location":"Chile"
+      },
+      {
+         "name":"Cristian Godoy",
+         "link":"https://cg.linkedin.com/in/cristian-godoy-90468b75",
+         "summary":"Godoy Disenioo y Construccion",
+         "location":"Congo, Rep\\u00fablica del"
+      },
+      {
+         "name":"Cristian Godoy",
+         "link":"https://ar.linkedin.com/in/cristiantrk",
+         "summary":"Productor en Gonna Go Producciones",
+         "location":"Argentina"
+      },
+      {
+         "name":"Cristian Godoy",
+         "link":"https://cl.linkedin.com/in/cristian-godoy-729466b7",
+         "summary":"Ingeniero Especialista en CODELCO \\u2013 Corporaci\\u00f3n Nacional del Cobre de Chile",
+         "location":"Chile"
+      }
+   ],
+   "articles":[
+
+   ],
+   "groups":[
+
+   ],
+   "skills":[
+
+   ],
+   "inferred_salary":null,
+   "gender":null,
+   "birth_date":null,
+   "industry":null,
+   "extra":null,
+   "interests":[
+
+   ],
+   "personal_emails":[
+
+   ],
+   "personal_numbers":[
+
+   ]
+}
