@@ -43,3 +43,10 @@ scss
 Copy code
 (summary_prompt_template) --> (llm) --> (StrOutputParser())
 
+# Creamos en gist github una respuesta mockeada de nuestro linkedin
+https://gist.githubusercontent.com/cristiangodoyy/48627d926a3b76b630b75acad76e350a/raw/cbf4ce82940c4140574c55343568ef89cb2240af/cristian-godoy.json
+
+
+### Important Links
+[Mastering Token Limits and Memory in ChatGPT and other Large Language Models](https://medium.com/@russkohn/mastering-ai-token-limits-and-memory-ce920630349a)
+[Token Limits and Memory in ChatGPT](https://medium.com/@cherepynetsillia/token-limits-and-memory-in-chatgpt-f650c12e0f1e)
